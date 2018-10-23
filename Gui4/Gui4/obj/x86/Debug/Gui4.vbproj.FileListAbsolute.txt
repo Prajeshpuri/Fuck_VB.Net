@@ -1,0 +1,9 @@
+c:\users\bhupesh\documents\visual studio 2010\Projects\Gui4\Gui4\obj\x86\Debug\Gui4.Form1.resources
+c:\users\bhupesh\documents\visual studio 2010\Projects\Gui4\Gui4\obj\x86\Debug\Gui4.Resources.resources
+c:\users\bhupesh\documents\visual studio 2010\Projects\Gui4\Gui4\obj\x86\Debug\Gui4.vbproj.GenerateResource.Cache
+c:\users\bhupesh\documents\visual studio 2010\Projects\Gui4\Gui4\bin\Debug\Gui4.exe
+c:\users\bhupesh\documents\visual studio 2010\Projects\Gui4\Gui4\bin\Debug\Gui4.pdb
+c:\users\bhupesh\documents\visual studio 2010\Projects\Gui4\Gui4\bin\Debug\Gui4.xml
+c:\users\bhupesh\documents\visual studio 2010\Projects\Gui4\Gui4\obj\x86\Debug\Gui4.exe
+c:\users\bhupesh\documents\visual studio 2010\Projects\Gui4\Gui4\obj\x86\Debug\Gui4.xml
+c:\users\bhupesh\documents\visual studio 2010\Projects\Gui4\Gui4\obj\x86\Debug\Gui4.pdb

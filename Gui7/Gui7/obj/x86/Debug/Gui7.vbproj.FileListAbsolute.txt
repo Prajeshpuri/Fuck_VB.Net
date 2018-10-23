@@ -1,0 +1,9 @@
+c:\users\bhupesh\documents\visual studio 2010\Projects\Gui7\Gui7\bin\Debug\Gui7.exe
+c:\users\bhupesh\documents\visual studio 2010\Projects\Gui7\Gui7\bin\Debug\Gui7.pdb
+c:\users\bhupesh\documents\visual studio 2010\Projects\Gui7\Gui7\bin\Debug\Gui7.xml
+c:\users\bhupesh\documents\visual studio 2010\Projects\Gui7\Gui7\obj\x86\Debug\Gui7.Form1.resources
+c:\users\bhupesh\documents\visual studio 2010\Projects\Gui7\Gui7\obj\x86\Debug\Gui7.Resources.resources
+c:\users\bhupesh\documents\visual studio 2010\Projects\Gui7\Gui7\obj\x86\Debug\Gui7.vbproj.GenerateResource.Cache
+c:\users\bhupesh\documents\visual studio 2010\Projects\Gui7\Gui7\obj\x86\Debug\Gui7.exe
+c:\users\bhupesh\documents\visual studio 2010\Projects\Gui7\Gui7\obj\x86\Debug\Gui7.xml
+c:\users\bhupesh\documents\visual studio 2010\Projects\Gui7\Gui7\obj\x86\Debug\Gui7.pdb
