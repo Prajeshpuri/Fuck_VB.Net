@@ -1,0 +1,9 @@
+C:\Users\prajesh\Desktop\vb.net\gui2\gui2\bin\Debug\gui2.exe
+C:\Users\prajesh\Desktop\vb.net\gui2\gui2\bin\Debug\gui2.pdb
+C:\Users\prajesh\Desktop\vb.net\gui2\gui2\bin\Debug\gui2.xml
+C:\Users\prajesh\Desktop\vb.net\gui2\gui2\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\prajesh\Desktop\vb.net\gui2\gui2\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\prajesh\Desktop\vb.net\gui2\gui2\obj\x86\Debug\gui2.vbproj.GenerateResource.Cache
+C:\Users\prajesh\Desktop\vb.net\gui2\gui2\obj\x86\Debug\gui2.exe
+C:\Users\prajesh\Desktop\vb.net\gui2\gui2\obj\x86\Debug\gui2.xml
+C:\Users\prajesh\Desktop\vb.net\gui2\gui2\obj\x86\Debug\gui2.pdb
