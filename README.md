@@ -1,2 +1,1 @@
-# Fuck_VB.Net
-Go
+#VB.Net
